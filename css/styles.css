@@ -82,6 +82,7 @@ html, body {
     background-image: url(../img/title-bg.webp);
     background-position: center;
     background-repeat: no-repeat;
+    padding: 15px;
 
 }
 
@@ -125,9 +126,13 @@ html, body {
     .costing {flex-direction: column;}
     .plus {width: 100%;}
     .minus {width: 100%;}
+    .cards {flex-direction: column; padding: 5px; align-items: center;}
+    .card {width: 300px;}
+    .title h1 {font-size: 20px}
+    .title h3 {font-size: 16px}
 }
 
-
+    
 
 
 
